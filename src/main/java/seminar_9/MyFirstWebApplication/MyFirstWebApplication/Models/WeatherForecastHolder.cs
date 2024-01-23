@@ -65,6 +65,12 @@
         /// <returns>Результат выполнения операции</returns>
         public bool Delete(DateTime date)
         {
+            var itemToRemove = _values.FirstOrDefault(item => item.Date == date);
+            if (itemToRemove != null)
+            {
+                _values.Remove(itemToRemove);
+                return true;
+            }
             return false;
         }
 

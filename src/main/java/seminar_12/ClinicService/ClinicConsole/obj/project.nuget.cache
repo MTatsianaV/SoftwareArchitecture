@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLaQ4KVFTJJ63vph1Fo5/zTavVTqxgTjr+lAHvBCKKLqB8JFU6TqIal+K7ZQh/CzJQziiqnRPuic4eQemd0utg==",
+  "success": true,
+  "projectFilePath": "C:\\sources\\gb\\arc\\group2\\lesson12\\ClinicService\\ClinicConsole\\ClinicConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvilDracur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

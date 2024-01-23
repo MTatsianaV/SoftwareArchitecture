@@ -31,3 +31,6 @@ C:\sources\gb\arc\group2\lesson9\MyFirstWebApplication\MyFirstWebApplication\obj
 C:\sources\gb\arc\group2\lesson9\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\net7.0\MyFirstWebApplication.pdb
 C:\sources\gb\arc\group2\lesson9\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\net7.0\MyFirstWebApplication.genruntimeconfig.cache
 C:\sources\gb\arc\group2\lesson9\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\net7.0\ref\MyFirstWebApplication.dll
+C:\Users\user\Documents\GeekBrains\Разработчик. Программист\14. Архитектура ПО\SoftwareArchitecture\src\main\java\seminar_9\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\net7.0\MyFirstWebApplication.dll
+C:\Users\user\Documents\GeekBrains\Разработчик. Программист\14. Архитектура ПО\SoftwareArchitecture\src\main\java\seminar_9\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\net7.0\refint\MyFirstWebApplication.dll
+C:\Users\user\Documents\GeekBrains\Разработчик. Программист\14. Архитектура ПО\SoftwareArchitecture\src\main\java\seminar_9\MyFirstWebApplication\MyFirstWebApplication\obj\Debug\net7.0\MyFirstWebApplication.pdb

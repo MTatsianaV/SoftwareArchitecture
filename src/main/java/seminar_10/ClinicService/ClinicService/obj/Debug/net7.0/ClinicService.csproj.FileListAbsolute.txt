@@ -58,3 +58,6 @@ C:\sources\gb\arch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net7.0\
 C:\sources\gb\arch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net7.0\ClinicService.pdb
 C:\sources\gb\arch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net7.0\ClinicService.genruntimeconfig.cache
 C:\sources\gb\arch\group3\lesson10\ClinicService\ClinicService\obj\Debug\net7.0\ref\ClinicService.dll
+C:\Users\user\Documents\GeekBrains\Разработчик. Программист\14. Архитектура ПО\SoftwareArchitecture\src\main\java\seminar_10\ClinicService\ClinicService\obj\Debug\net7.0\ClinicService.dll
+C:\Users\user\Documents\GeekBrains\Разработчик. Программист\14. Архитектура ПО\SoftwareArchitecture\src\main\java\seminar_10\ClinicService\ClinicService\obj\Debug\net7.0\refint\ClinicService.dll
+C:\Users\user\Documents\GeekBrains\Разработчик. Программист\14. Архитектура ПО\SoftwareArchitecture\src\main\java\seminar_10\ClinicService\ClinicService\obj\Debug\net7.0\ClinicService.pdb
